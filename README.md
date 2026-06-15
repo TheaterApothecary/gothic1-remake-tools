@@ -1,7 +1,7 @@
 # Gothic 1 Remake — Community Trainer & Memory Tools
 
 <p align="center">
-  <img src="images/banner.svg" alt="Gothic 1 Remake Community Tools banner" width="100%">
+  <img src="assets/gothic-remake-tools-banner.png" alt="Gothic 1 Remake Community Tools banner" width="100%">
 </p>
 
 [![Latest Release](https://img.shields.io/github/v/release/USERNAME/REPO?style=flat-square)](../../releases/latest)
