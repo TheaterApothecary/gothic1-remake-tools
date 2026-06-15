@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Cheat Engine backups
+*.CT.bak
+*~
+
+# Editor
+.vscode/
+.idea/
