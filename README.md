@@ -1,8 +1,8 @@
-# gothic1-remake-tools
-Open-source trainer &amp; save editor tools for Gothic 1 Remake (2026, UE5). Infinite health/mana/stamina, free XP &amp; gold, quest fixes, save editor.
-
-
 # Gothic 1 Remake — Community Trainer & Memory Tools
+
+<p align="center">
+  <img src="images/banner.svg" alt="Gothic 1 Remake Community Tools banner" width="100%">
+</p>
 
 [![Latest Release](https://img.shields.io/github/v/release/USERNAME/REPO?style=flat-square)](../../releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/USERNAME/REPO/total?style=flat-square)](../../releases)
